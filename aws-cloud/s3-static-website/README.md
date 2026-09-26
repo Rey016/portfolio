@@ -16,4 +16,3 @@ Key Concepts
 
 The project also included configuring access permissions for website files and creating a bucket policy to prevent the deletion of the `index.html` file.
 
-[View Project Documentation](./HOST%20A%20WEBSITE%20ON%20AMAZON%20S3.pdf)
