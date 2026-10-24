@@ -1,6 +1,5 @@
-Technical Portfolio
 
-Welcome to my technical portfolio! 👋
+Welcome to my portfolio! 👋
 
 I'm an Information Technology graduate with hands-on experience in Java, Python, SQL, web development, AWS Cloud, and IT fundamentals.
 
