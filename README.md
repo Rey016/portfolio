@@ -16,15 +16,15 @@ A Java console application developed to demonstrate object-oriented programming 
 
 Features:
 
-Account creation and management
+  -Account creation and management
 
-Deposits and withdrawals
+  -Deposits and withdrawals
 
-Balance inquiries
+  -Balance inquiries
 
-Input validation
+  -Input validation
 
-Application of OOP principles
+  -Application of OOP principles
 
 Technologies: Java, OOP
 
@@ -36,21 +36,21 @@ A collection of Python programming exercises completed through hands-on learning
 
 Topics covered:
 
-Variables and data types
+  -Variables and data types
 
-Conditional statements
+  -Conditional statements
 
-Loops and iteration
+  -Loops and iteration
 
-Lists, tuples, and dictionaries
+  -Lists, tuples, and dictionaries
 
-Functions and modules
+  -Functions and modules
 
-File handling
+  -File handling
 
-Debugging
+  -Debugging
 
-Basic scripting and automation
+  -Basic scripting and automation
 
 Technologies: Python
 
@@ -62,16 +62,16 @@ A collection of hands-on AWS labs focused on cloud infrastructure, networking, s
 
 Labs include:
 
-AWS Account Setup
+  -AWS Account Setup
 
-Hosting a Static Website on Amazon S3
+  -Hosting a Static Website on Amazon S3
 
-Cloud Security with AWS IAM
+  -Cloud Security with AWS IAM
 
-Building a Virtual Private Cloud (VPC)
+  -Building a Virtual Private Cloud (VPC)
 
-Creating Private Subnets
+  -Creating Private Subnets
 
-Launching VPC Resources
+  -Launching VPC Resources
 
-Understanding VPC Traffic Flow and Security
+  -Understanding VPC Traffic Flow and Security
