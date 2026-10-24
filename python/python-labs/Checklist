@@ -1,0 +1,32 @@
+Absolutely. Here's a lab-only checklist from your Python Programming section. I marked what we've clearly worked through so far.
+🐍 Python Programming — Lab Checklist
+Python Programming Basics
+✅108 — Lab: Hello World
+✅109 — Lab: Numeric Data Types
+✅110 — Lab: String Data Type
+✅111 — Lab: List, Tuple, Dictionary
+✅112 — Lab: Categorize Values
+✅113 — Lab: Composite Data Types ← Currently working on this
+✅114 — Lab: Conditionals
+✅115 — Lab: Loops
+✅116 — Lab: Create a Git Repository
+Python + Insulin
+✅118 — Lab: Preparing to Analyze Insulin with Python
+✅120 — Lab: String Sequence and Numeric Weight of Insulin
+Python Flow Control
+✅122 — Lab: Calculating the Net Charge of Insulin Using Python Lists and Loops
+Python Functions
+✅124 — Lab: Use Functions to Implement a Caesar Cipher
+Python Modules and Libraries
+✅126 — Lab: File Handlers and Modules for Retrieving Information About Insulin
+Python System Administration
+✅128 — Lab: System Administration with Python
+Debugging and Testing
+✅129 — Lab: Using the Debugger
+✅130 — Lab: Debugging Hello World and Caesar Cipher
+Python DevOps and Continuous Integration
+- 134 — Lab: Evaluate a DevOps Tool
+- 135 — Lab: Explore the Value of Automation
+- 136 — Lab: Compare and Contrast Automation and Orchestration
+Python Configuration Management
+- 141 — Lab: [Challenge] Python Exercise
